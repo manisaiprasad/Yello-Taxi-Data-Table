@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Yello-Taxi-Data-Table/static/css/main.073c9b0a.css",
-    "main.js": "/Yello-Taxi-Data-Table/static/js/main.370f4f1e.js",
+    "main.js": "/Yello-Taxi-Data-Table/static/js/main.30e91fdb.js",
     "static/js/787.a0d1238a.chunk.js": "/Yello-Taxi-Data-Table/static/js/787.a0d1238a.chunk.js",
     "index.html": "/Yello-Taxi-Data-Table/index.html",
     "main.073c9b0a.css.map": "/Yello-Taxi-Data-Table/static/css/main.073c9b0a.css.map",
-    "main.370f4f1e.js.map": "/Yello-Taxi-Data-Table/static/js/main.370f4f1e.js.map",
+    "main.30e91fdb.js.map": "/Yello-Taxi-Data-Table/static/js/main.30e91fdb.js.map",
     "787.a0d1238a.chunk.js.map": "/Yello-Taxi-Data-Table/static/js/787.a0d1238a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.370f4f1e.js"
+    "static/js/main.30e91fdb.js"
   ]
 }
