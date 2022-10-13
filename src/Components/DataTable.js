@@ -25,7 +25,6 @@ export default function Table(data) {
         </tr>
       </thead>
       <tbody>
-        {console.log('Data', data)}
         {data.data.map((row) => (
           <tr>
             <td>{row.vendorid}</td>
