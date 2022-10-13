@@ -1,6 +1,6 @@
 import './App.css';
 import axios from 'axios';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import DataTable from './Components/DataTable';
 function App() {
   const [data, setData] = useState([]);
@@ -16,9 +16,9 @@ function App() {
       console.log(error);
     }
   };
-
-  getData();
-
+  useEffect(() => {
+    getData();
+  }, []);
   return (
     <div className="App">
       <h1>NYC Yellow Taxi Data</h1>
